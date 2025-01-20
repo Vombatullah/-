@@ -4,3 +4,4 @@ https://docs.google.com/presentation/d/1L0zmQdmU2Aq4rQFDoTgwVLk-ENXvyO4d3xW58xFL
 https://drive.google.com/drive/folders/1uuVZFcRkz0OS8FASy7mhkX8yybSoo1KK?usp=sharing ( выстовачные залы )
 https://colab.research.google.com/drive/1osX4mMvA68sZ8Pqq0dWUzl5mDem5nKnA?usp=sharing(код второй работы)
 https://docs.google.com/document/d/1L9O8yxUk0eSWs62oPCu-k59zeNGgXcwFCFGbpUgfCfI/edit?usp=sharing(конференция)
+https://docs.google.com/document/d/1wIiY8QBtIrLh1bG6OqA7Nmj-W37RICqF_f4j9tOjK94/edit?usp=sharing(тезисы)
